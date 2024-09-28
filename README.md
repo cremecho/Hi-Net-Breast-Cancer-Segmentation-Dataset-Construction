@@ -17,7 +17,7 @@ To accelerate training and reduce computational costs, we construct a lightweigh
 
 
 
-![img.png](img.png)
+![img.png](./images/img.png)
 
 
 
