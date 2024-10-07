@@ -6,6 +6,9 @@ via lightweight dataset construction [doi: 10.1016/j.heliyon.2024.e38410](https:
 
 The code includes how to generate the proposed dataset from annotated WSIs (Whole Slide Images) of dataset [Camelyon16, Camelyon17](https://camelyon17.grand-challenge.org/) and [ICIAR2018](https://iciar2018-challenge.grand-challenge.org/). It is expected to generate 7927 samples with masks of size 512x512 by this method.
 
+### Dataset Download
+[Mendeley Data](https://data.mendeley.com/datasets/hd3kw5tt8f/1), [Google Drive](https://drive.google.com/file/d/1HLHN6cshUb83ycuxnxHIafl-N-Dh3Q24/view?usp=sharing), [百度网盘](https://pan.baidu.com/s/1s_liNPWpad4pRmtK7U7AdA?pwd=soyo)
+
 ### Methodology
 Whole slide imaging (WSI) refers to the digitalization of entire microscope slides, which usually with a high-resolution containing more than 10 billion pixels.
 
